@@ -1,0 +1,11 @@
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\bin\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.deps.json
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\bin\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.runtimeconfig.json
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\bin\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.runtimeconfig.dev.json
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\bin\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.dll
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\bin\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.pdb
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\obj\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.csprojResolveAssemblyReference.cache
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\obj\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.csproj.CoreCompileInputs.cache
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\obj\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.AssemblyInfoInputs.cache
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\obj\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.AssemblyInfo.cs
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\obj\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.dll
+C:\Users\Wendrya\Documents\Trabalho Prático\SalãodeFestasPatatiPatata\SalãodeFestasPatatiPatata\obj\Debug\netcoreapp2.0\SalãodeFestasPatatiPatata.pdb

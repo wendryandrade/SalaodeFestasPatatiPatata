@@ -1,0 +1,2 @@
+ Qtd convidados: 80, Forma de pagamento: a vista, Dia da semana: domingo, Valor final: 3149,1, Valor total: 3499, Desconto: 10%, Código festa: 1, 
+ Qtd convidados: 80, Forma de pagamento: duas vezes, Dia da semana: sabado, Valor final: 3324,05, Valor total: 3499, Desconto: 5%, Código festa: 2, 

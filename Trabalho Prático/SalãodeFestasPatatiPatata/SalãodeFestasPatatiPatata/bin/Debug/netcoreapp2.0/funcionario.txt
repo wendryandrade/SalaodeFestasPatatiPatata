@@ -1,0 +1,1 @@
+ Código funcionário: 1, Nome funcionário: luiz, Telefone funcionário: 789, Função: gerente, Salário: 3000, Tipo: fixo, 

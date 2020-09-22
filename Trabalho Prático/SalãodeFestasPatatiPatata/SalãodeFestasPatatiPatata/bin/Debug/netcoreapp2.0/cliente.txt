@@ -1,0 +1,2 @@
+ Código cliente: 1, Nome cliente: wendy, Endereço: ibirite, Telefone cliente: 123, Data nasc: 24022000, 
+ Código cliente: 2, Nome cliente: ghabi, Endereço: contagem, Telefone cliente: 456, Data nasc: 4042000, 
